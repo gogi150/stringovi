@@ -14,7 +14,7 @@ namespace _5_kod
             string s2 = "Italija je prvak svijeta";
             string s3 = s1.Substring(0, 8) + s2.Substring(7);
             Console.WriteLine(s3);
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
